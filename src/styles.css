@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.cld-video-player .vjs-control-bar .vjs-progress-control {
+  display: none;
+}
+div.vjs-control-bar > div.vjs-live-control.vjs-control {
+  display: block;
+}
